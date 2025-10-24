@@ -2,7 +2,7 @@
 
 Welcome to my **30-day Python Sprint** — a structured journey to master Python fundamentals, build real mini-projects, and create a strong foundation for my **AI Engineer roadmap** 🚀
 
-This repo is my **public daily learning log** — where I push code, structured notes, and projects every day to build consistency and momentum toward my goal of becoming an **AI Engineer at Google** by 2026.
+This repo is my **public daily learning log** — where I push code, structured notes, and projects every day to build consistency and momentum toward my goal of becoming an **AI Engineer at Google** in 2026.
 
 ---
 
